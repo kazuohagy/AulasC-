@@ -1,0 +1,14 @@
+C:\Users\kazuo\source\repos\netpuro\netpuro\bin\Debug\net8.0\netpuro.exe
+C:\Users\kazuo\source\repos\netpuro\netpuro\bin\Debug\net8.0\netpuro.deps.json
+C:\Users\kazuo\source\repos\netpuro\netpuro\bin\Debug\net8.0\netpuro.runtimeconfig.json
+C:\Users\kazuo\source\repos\netpuro\netpuro\bin\Debug\net8.0\netpuro.dll
+C:\Users\kazuo\source\repos\netpuro\netpuro\bin\Debug\net8.0\netpuro.pdb
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.AssemblyInfoInputs.cache
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.AssemblyInfo.cs
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.csproj.CoreCompileInputs.cache
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.dll
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\refint\netpuro.dll
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.pdb
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\netpuro.genruntimeconfig.cache
+C:\Users\kazuo\source\repos\netpuro\netpuro\obj\Debug\net8.0\ref\netpuro.dll
