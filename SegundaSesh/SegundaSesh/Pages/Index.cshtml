@@ -15,17 +15,17 @@
             <th>ID</th>
             <th>Nome</th>
         </tr>
-        @foreach (var item in Model.planos)
+        @foreach (var item in Model.Planos)
         {
             <tr>
-                <td>@item.Id</td>
+                <td>@item.ID</td>
                 <td>@item.Nome</td>
             </tr>
         }
     </table>
-    @foreach(var item in Model.planos){
+    @foreach(var item in Model.Planos){
     <p>
-        @item.Id
+        @item.ID
     </p>
     <p>
         @item.Nome

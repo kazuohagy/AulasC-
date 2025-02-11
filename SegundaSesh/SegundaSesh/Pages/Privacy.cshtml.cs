@@ -1,20 +1,27 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using SegundaSesh.Models;
 
 namespace SegundaSesh.Pages
 {
     public class PrivacyModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
-
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        IConfiguration _configuration;
+        public PrivacyModel(IConfiguration configuration)
         {
-            _logger = logger;
+            _configuration = configuration;
+        }
+        public string Nome { get; set; } = "mario";
+
+        public List<Planos> Planos { get; set; } = [];
+
+        public async Task OnGetAsync()
+        {
+            Planos planos = new();
+            Planos = await planos.OnGetAsync(_configuration);
+            Nome = "mario";
         }
 
-        public void OnGet()
-        {
-        }
     }
 
 }

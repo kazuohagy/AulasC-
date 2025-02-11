@@ -6,3 +6,16 @@
 <h1>@ViewData["Title"]</h1>
 
 <p>Use this page to detail your site's privacy policy.</p>
+<table class="table table-dark">
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+    </tr>
+    @foreach (var item in Model.Planos)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Nome</td>
+        </tr>
+    }
+</table>

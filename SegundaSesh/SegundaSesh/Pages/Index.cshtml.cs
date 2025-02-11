@@ -12,31 +12,23 @@ namespace SegundaSesh.Pages
 {
     public class IndexModel : PageModel
     {
-        public string Name { get; set; } = "mario";
-
-        public List<Planos> planos { get; set; }
-
         private readonly IConfiguration _configuration;
-
         public IndexModel(IConfiguration configuration)
         {
             _configuration = configuration;
         }
+        public string Name { get; set; } = "mario";
 
+        public List<Planos> Planos { get; set; } = [];
+
+        
         public async Task OnGetAsync()
         {
-            using var connection = new SqlConnection(_configuration.GetConnectionString("TestConnection"));
-            planos = (List<Planos>)await connection.QueryAsync<Planos>("SELECT * FROM [planos] WHERE ageid = 0 AND publicado = 1");
+            Planos planos = new();
+            Planos = await planos.OnGetAsync(_configuration);
+            Name = "mario";
 
         }
     }
 
-    public class Planos
-    {
-        // Propriedades da classe devem corresponder às colunas da tabela "planos"
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public int AgeId { get; set; }
-        public bool Publicado { get; set; }
-    }
 }
