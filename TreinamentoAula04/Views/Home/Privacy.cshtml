@@ -1,4 +1,5 @@
-﻿@model PassageiroViewModel
+﻿@model PlanosComCoberturasViewModel
+
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -6,7 +7,24 @@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    <p>@Model.Nome @Model.Sobrenome</p>
-    <p>@Model.Idade</p>
-</div>
 
+    @foreach (var item in Model.Planos)
+    {
+        <p>
+            @item.Id
+        </p>
+        <p>
+            @item.Nome
+        </p>
+    }
+
+    @foreach (var item in Model.Coberturas)
+    {
+        <p>
+            @item.Id
+        </p>
+        <p>
+            @item.Descritivo
+        </p>
+    }
+</div>

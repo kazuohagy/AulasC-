@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using TreinamentoAula04.Models;
+using Dapper;
 
 namespace TreinamentoAula04.Controllers
 {
@@ -12,16 +13,18 @@ namespace TreinamentoAula04.Controllers
             _configuration = configuration;
         }
 
-        public IActionResult Index(string name, string sobrenome, int id = 4)
+        public async Task<IActionResult> Index()
         {
-            PlanosComCoberturasViewModel paxVm = new()
-            {
-                Nome = name,
-                Sobrenome = sobrenome,
-                Idade = id
-            };
+            PlanoModel plano = new();
+            CoberturaModel cobertura = new();
 
-            return View("../Home/Privacy", paxVm);
+            PlanosComCoberturasViewModel pccVm = new()
+            {
+                Planos = await plano.GetListaPlanos(_configuration),
+                Coberturas = await cobertura.GetListaCoberturas(_configuration)
+            };
+   
+            return Json(pccVm);
         }
     }
 }

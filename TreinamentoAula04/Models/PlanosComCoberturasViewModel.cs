@@ -2,7 +2,7 @@
 {
     public class PlanosComCoberturasViewModel
     {
-        public List<PlanoModel> planos { get; set; }
-        public List<CoberturaModel> coberturas { get; set; }
+        public List<PlanoModel> Planos { get; set; }
+        public List<CoberturaModel> Coberturas { get; set; }
     }
 }
