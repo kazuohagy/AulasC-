@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\service\\iplanoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\service\\iplanoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\model\\planomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\model\\planomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\service\\planoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\service\\planoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\setimasesh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\setimasesh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\controllers\\kazuocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\controllers\\kazuocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|c:\\users\\kazuo\\source\\repos\\setimasesh\\setimasesh\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DC420F-7F68-4FBD-A239-DE1CF55FED4E}|setimaSesh\\setimaSesh.csproj|solutionrelative:setimasesh\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPlanoService.cs",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Service\\IPlanoService.cs",
+              "RelativeDocumentMoniker": "setimaSesh\\Service\\IPlanoService.cs",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Service\\IPlanoService.cs",
+              "RelativeToolTip": "setimaSesh\\Service\\IPlanoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:56:42.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KazuoController.cs",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Controllers\\KazuoController.cs",
+              "RelativeDocumentMoniker": "setimaSesh\\Controllers\\KazuoController.cs",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Controllers\\KazuoController.cs",
+              "RelativeToolTip": "setimaSesh\\Controllers\\KazuoController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:28:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\appsettings.json",
+              "RelativeDocumentMoniker": "setimaSesh\\appsettings.json",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\appsettings.json",
+              "RelativeToolTip": "setimaSesh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T11:23:48.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "setimaSesh\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\WeatherForecast.cs",
+              "RelativeToolTip": "setimaSesh\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:20:26.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanoService.cs",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Service\\PlanoService.cs",
+              "RelativeDocumentMoniker": "setimaSesh\\Service\\PlanoService.cs",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Service\\PlanoService.cs",
+              "RelativeToolTip": "setimaSesh\\Service\\PlanoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:17:51.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanoModel.cs",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Model\\PlanoModel.cs",
+              "RelativeDocumentMoniker": "setimaSesh\\Model\\PlanoModel.cs",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Model\\PlanoModel.cs",
+              "RelativeToolTip": "setimaSesh\\Model\\PlanoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:15:49.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "setimaSesh",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\setimaSesh.csproj",
+              "RelativeDocumentMoniker": "setimaSesh\\setimaSesh.csproj",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\setimaSesh.csproj",
+              "RelativeToolTip": "setimaSesh\\setimaSesh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T11:14:40.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Program.cs",
+              "RelativeDocumentMoniker": "setimaSesh\\Program.cs",
+              "ToolTip": "C:\\Users\\kazuo\\source\\repos\\setimaSesh\\setimaSesh\\Program.cs",
+              "RelativeToolTip": "setimaSesh\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:10:21.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

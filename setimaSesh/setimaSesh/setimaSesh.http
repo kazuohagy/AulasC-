@@ -1,0 +1,6 @@
+@setimaSesh_HostAddress = http://localhost:5287
+
+GET {{setimaSesh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
